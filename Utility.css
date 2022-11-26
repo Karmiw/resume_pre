@@ -1,0 +1,32 @@
+body{ 
+    
+    background-color:lightslategray;
+}
+hr {
+    border-style:dashed;
+    border-top-style: dashed border ;
+    border-color: brown;
+    border-width: 5px ;
+    width: 30; 
+}
+img {
+ max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+} 
+
+table {
+  border-style: groove;
+}
+
+thead,
+tfoot 
+{ 
+    text-align: center;
+    background-color:black; 
+    color: gray ;
+} 
+
+h1 , h2 {
+    color:greenyellow
+}
